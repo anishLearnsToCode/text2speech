@@ -1,8 +1,7 @@
 # Text 2 Speech
 
 Hello world application for converting text to speech that uses 
-[pyttsx3](https://pypi.org/project/pyttsx3/) and 
-[beautifulsoup4](https://pypi.org/project/beautifulsoup4/).
+[pyttsx3](https://pypi.org/project/pyttsx3/).
 
 ### Running on your machine
 
